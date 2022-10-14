@@ -20,6 +20,16 @@
 3. [Retornos, Pacotes e visibilidade ...........](docs/cap9.md)
 
 
+## GO Aplicação web em GO
 
+1. [Servidor e Sruct de produtos](docs/web1.md)
 
+## Go: validações e testes e páginas HTML
+
+1. []()
+
+## GO build e push de imagens do Docker
+
+1. [Build e push de imagen docker](docs/dock1.md)
+2. 
 ___
